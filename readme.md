@@ -28,11 +28,19 @@ Use programming to explore and express their ideas
 ### Lectures 
 Each week will include a number of lecture videos and notes covering a specific topic in JavaScript programming and libraries for students to follow in their own time before that week’s class time. 
 Each class will begin with a discussion about previous work and answer questions, share examples, etc. We will cover a new topic, and write code together. 
-After the lecture, we will have open time to do project or class work. It is highly recommended that students spend time in class working on their projects and use the time of the instructor and TA
+After the lecture, we will have open time to do project or class work. It is highly recommended that students spend time in class working on their projects and use the time of the instructor and TA. 
+### Critique 
+All projects will have group critique. Students are expected to show up to class ready to share their work and discuss the work of others. 
 ### Exercises 
 Some weeks with subject matter will include a graded exercise for students to demonstrate mastery of the topic(s) covered that week. 
 ### Projects 
-There will be 3 graded projects during the course. Each will be used as an opportunity for students to practice and develop their programming skills with room to express their own ideas. 
+There will be 3 graded projects during the course. Each will be used as an opportunity for students to practice and develop their programming skills with room to express their own ideas.   
+- Projects should be brought to class   
+- Documentation and code should be uploaded by midnight the due date of the assignment  
+- Feel free to adapt or change your project based on class feedback
+- Projects should be brought to class ready for critique. 
+- Participation in critique is part of overall class participation grade. 
+
 
 ## Expected skills 
 Students are not expected to have any existing familiarity with programming. However, excitement and willingness to learn are a must! 
