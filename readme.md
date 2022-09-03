@@ -35,9 +35,7 @@ All projects will have group critique. Students are expected to show up to class
 Some weeks with subject matter will include a graded exercise for students to demonstrate mastery of the topic(s) covered that week. 
 ### Projects 
 There will be 3 graded projects during the course. Each will be used as an opportunity for students to practice and develop their programming skills with room to express their own ideas.   
-- Projects should be brought to class   
-- Documentation and code should be uploaded by midnight the due date of the assignment  
-- Feel free to adapt or change your project based on class feedback
+- Documentation and code should be uploaded by midnight the due date of the assignment. Feel free to adapt or change your project based on class feedback
 - Projects should be brought to class ready for critique. 
 - Participation in critique is part of overall class participation grade. 
 
@@ -84,17 +82,17 @@ The practical work done in this class will take place on your own computer, with
 
 Week 1: Hello World - Lets make shapes!  
 Week 2: Variables   
-Week 3: Portraits due, group critique.  
-Week 4: Conditionals (In class exercise 1 due).   
-Week 5: Loops (In class exercise 2 due).  
+**Week 3: Portraits due, group critique.**  
+Week 4: Conditionals (**In class exercise 1 due**).   
+Week 5: Loops (**In class exercise 2 due**).  
 Week 6: Arrays.    
-Week 7: Functions (In class exercise 3 due).   
-Week 8: Screens In Space due, group critique.  
-Week 9: MQTT (In class exercise 4 due).   
+Week 7: Functions (**In class exercise 3 due**).   
+**Week 8: Screens In Space due, group critique.**  
+Week 9: MQTT (**In class exercise 4 due**).   
 Week 10: Using sound in P5.js.  
 Week 11: Using the camera in P5.js.   
 Week 12: Studio Session.   
-Week 13: Rube Goldberg project due, group critique.   
+**Week 13: Rube Goldberg project due, group critique.**   
 ## Design and Computation Arts Syllabus      
 (Click through for the standardized information from D/CART that is included as part of all course outlines.)
 ## Commitment to Diversity and Safer Spaces 
