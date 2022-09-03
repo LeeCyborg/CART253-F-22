@@ -1,7 +1,7 @@
 # Project 1: Portrait - 10 %
 ### Due Week 3, bring your work to class ready to critique. Uplaod to Moodle by midnight     
 ## Overview 
-With p5.js, create a portrait of someone - yourself, your pet, a partner, friend of family member using shape functions. Don't try and be fancy with your code, instead focus on creating a clean, creative, and beautiful piece you understand using basic functions.   
+With p5.js, create a portrait of someone - yourself, your pet, a partner, friend or family member using shape functions. Don't try and be fancy with your code, instead focus on creating a clean, creative, and beautiful piece you understand using basic functions.   
 
 ## Requirements 
 - Use multiple functions from the [reference](https://p5js.org/reference/)     
