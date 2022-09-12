@@ -16,7 +16,7 @@ www.Leecyb.org
 Enric Granzotto Llagostera (TA)   
 PhD candidate at Technoculture, Art and Games (TAG)   
 enric.llagostera@concordia.ca   
-enric.llagostera.com.br   
+<https://enric.llagostera.com.br>   
 ## Office hours
 Tuesdays, 11:00-12:00   
 TAs (see Moodle for contact details)    
