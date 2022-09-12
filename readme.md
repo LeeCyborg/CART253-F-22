@@ -5,13 +5,18 @@
 Section A: Thursdays, 13:30 – 17:30   
 Section B: Tuesdays, 13:30 – 17:30   
 ## Where? 
-Tuesdays -   
-Thursdays -   
+Tuesdays - EV 5.815   
+Thursdays - EV 5.635   
 ## Who? 
 Lee Wilkins   
 Department of Design and Computation Arts   
 lwilkins@concordia.ca.  
 www.Leecyb.org   
+
+Enric Granzotto Llagostera (TA)   
+PhD candidate at Technoculture, Art and Games (TAG)   
+enric.llagostera@concordia.ca   
+enric.llagostera.com.br   
 ## Office hours
 Tuesdays, 11:00-12:00   
 TAs (see Moodle for contact details)    
