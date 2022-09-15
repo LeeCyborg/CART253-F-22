@@ -5,6 +5,8 @@
 - Review [P5.js and Atom tutorial](http://puthalath.com/how-to-get-started-with-coding-in-javascript-with-p5-and-atom/) 
 - Check out the [p5.js forums](https://discourse.processing.org/c/p5js/10) for help
 - Nature Of Code [examples](https://github.com/nature-of-code/noc-examples-p5.js) from 
+- The [debugging cheatsheet](https://github.com/LeeRobot/CART253-F-22/blob/main/Resources/debugging_cheatsheet.md) can be useful to figure out why your prject is not working how you intend it.
+
 # Artists 
 - [Qianqian Ye](https://qianqian-ye.com/)
 - [Jason Webb](https://jasonwebb.io/)
