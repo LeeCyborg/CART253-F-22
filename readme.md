@@ -10,7 +10,7 @@ Thursdays - EV 5.635
 ## Who? 
 Lee Wilkins   
 Department of Design and Computation Arts   
-lwilkins@concordia.ca.  
+l.wilkins@concordia.ca.  
 www.Leecyb.org   
 
 Enric Granzotto Llagostera (TA)   
