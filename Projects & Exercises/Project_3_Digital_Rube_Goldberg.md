@@ -12,6 +12,12 @@ Your project must:
 - Send the variable successfully to the next person
 - Successfully complete this task during critique 
 
+Use this template, you may use the P5 online editor: https://editor.p5js.org/LeeRobot/sketches/RXA5yGasr make sure to COPY and MAKE YOUR OWN. 
+
+https://www.eclipse.org/paho/index.php?page=clients/js/index.php Here is documentation of the MQTT client we are using
+
+We are using SHIFTR.IO https://www.shiftr.io/try/ 
+
 Grading criteria:
 - Successfully receiving / changing / using / sending your variables
 - Using 1 external library for p5js in a meaningful capacity
